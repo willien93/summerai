@@ -1,0 +1,1 @@
+i learned how perceptrons work and how they use weighted inputs to create an output
